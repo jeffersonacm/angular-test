@@ -1,0 +1,14 @@
+{
+  
+  "data":
+  [ 
+      {
+          "data":{  
+              "categoria_id":"test",
+              "descricao":"tamanho",
+              "fator":"pexad",
+              "categoria_pai": "chise"
+          }
+      }
+  ]
+}
