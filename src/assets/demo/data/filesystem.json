@@ -1,0 +1,23 @@
+{
+  
+  "data":
+  [ 
+      {
+          "data":{  
+              "categoria_id":"test",
+              "descricao":"tamanho",
+              "fator":"pexad",
+              "categoria_pai": "chise"
+          },
+          "children":[  
+            {  
+                "data":{  
+                    "categoria_id":"Expenses.doc",
+                    "descricao":"30kb",
+                    "type":"Document"
+                }
+            }
+        ]
+      }
+  ]
+}
